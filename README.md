@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hello Devs!! I'm Arthur Augusto 👋!!
 
-<!--
-**arthuraugusn/arthuraugusn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![arthur](https://user-images.githubusercontent.com/98403987/189556576-a84b4f2e-1fbb-4209-8c67-90241dd3aca2.gif)
 
-Here are some ideas to get you started:
+- 😸 I'm 16 years old.
+- 👨‍💻 I'm currently studying Systems Analysis and Development at [Senai Jandira](https://jandira.sp.senai.br/).
+- 📚 I'm learning about HTML, CSS, Java, JavaScript, Kotlin. 
+- 🖤 Cats and dogs lover.
+- 🎮 I play video games in my spare time. 
+- 🤓 I love animes!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /><img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+
+
+![Snake animation](https://github.com/arthuraugusn/arthuraugusn/blob/output/github-contribution-grid-snake.svg)
+
+![kitty-kitten](https://user-images.githubusercontent.com/98403987/189557385-e421e0f7-b5f4-496b-8c49-d5be8e8151cc.gif)
+
+![bebé-greygrey](https://user-images.githubusercontent.com/98403987/189555116-0542c37c-3432-4090-a435-c6fab5aea59b.gif)![bebé-greygrey](https://user-images.githubusercontent.com/98403987/189555116-0542c37c-3432-4090-a435-c6fab5aea59b.gif)![bebé-greygrey](https://user-images.githubusercontent.com/98403987/189555116-0542c37c-3432-4090-a435-c6fab5aea59b.gif)![bebé-greygrey](https://user-images.githubusercontent.com/98403987/189555116-0542c37c-3432-4090-a435-c6fab5aea59b.gif)
+
+<div>
+<a href="https://github.com/arthuraugusn">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuraugusn&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuraugusn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
