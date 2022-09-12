@@ -18,9 +18,6 @@
 <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
-
-![Snake animation](https://github.com/arthuraugusn/arthuraugusn/blob/output/github-contribution-grid-snake.svg)
-
 ![kitty-kitten](https://user-images.githubusercontent.com/98403987/189557385-e421e0f7-b5f4-496b-8c49-d5be8e8151cc.gif)
 
 ![bebé-greygrey](https://user-images.githubusercontent.com/98403987/189555116-0542c37c-3432-4090-a435-c6fab5aea59b.gif)![bebé-greygrey](https://user-images.githubusercontent.com/98403987/189555116-0542c37c-3432-4090-a435-c6fab5aea59b.gif)![bebé-greygrey](https://user-images.githubusercontent.com/98403987/189555116-0542c37c-3432-4090-a435-c6fab5aea59b.gif)![bebé-greygrey](https://user-images.githubusercontent.com/98403987/189555116-0542c37c-3432-4090-a435-c6fab5aea59b.gif)
