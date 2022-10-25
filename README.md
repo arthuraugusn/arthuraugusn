@@ -1,7 +1,5 @@
 ## Hello Devs!! I'm Arthur Augusto 👋!!
 
-![arthur](https://user-images.githubusercontent.com/98403987/189556576-a84b4f2e-1fbb-4209-8c67-90241dd3aca2.gif)
-
 - 😸 I'm 16 years old.
 - 👨‍💻 I'm currently studying Systems Analysis and Development at [Senai Jandira](https://jandira.sp.senai.br/).
 - 📚 I'm learning about HTML, CSS, Java, JavaScript, Kotlin. 
