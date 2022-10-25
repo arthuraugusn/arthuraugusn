@@ -1,6 +1,6 @@
 ## Hello Devs!! I'm Arthur Augusto 👋!!
 
-- 😸 I'm 16 years old.
+- 😸 I'm 17 years old.
 - 👨‍💻 I'm currently studying Systems Analysis and Development at [Senai Jandira](https://jandira.sp.senai.br/).
 - 📚 I'm learning about HTML, CSS, Java, JavaScript, Kotlin. 
 - 🖤 Cats and dogs lover.
