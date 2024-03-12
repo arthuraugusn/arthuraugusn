@@ -2,7 +2,7 @@
 <img align="right" width="200"  src="dogolino.gif">
 
 ## Welcome to my Github!
-<div align="center"><hr>
+<div align="center">
   <a href="https://github.com/arthuraugusn"></a>
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthuraugusn&theme=dark"/> 
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthuraugusn&layout=compact&theme=dark"/>
