@@ -1,5 +1,5 @@
 # Hi, I'm Arthur 
-<img align="right" width="200"  src="dogolino.gif">
+<img align="right" width="100"  src="dogolino.gif">
 
 ## Welcome to my Github!
 <div align="center">
