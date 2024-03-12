@@ -3,9 +3,10 @@
 
 ## Welcome to my Github!
 <div align="center">
-  <a href="https://github.com/arthuraugusn"></a>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthuraugusn&theme=dark"/> 
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthuraugusn&layout=compact&theme=dark"/>
+  <a href="https://github.com/arthuraugusn">
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthuraugusn&theme=dark"/> 
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthuraugusn&layout=compact&theme=dark"/>
+    </a>
 </div>
 
 ---
