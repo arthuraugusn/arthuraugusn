@@ -1,35 +1,72 @@
-# Hi, I'm Arthur 
-<img align="right" width="100"  src="dogolino.gif">
+# 👋 Olá, eu sou Arthur Nunes
 
-## Welcome to my Github!
-<div align="center">
-  <a href="https://github.com/arthuraugusn">
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthuraugusn&theme=dark"/> 
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthuraugusn&layout=compact&theme=dark"/>
-    </a>
-</div>
+## Full Stack Software Engineer
+
+Desenvolvedor Full Stack com foco em backend utilizando TypeScript, Node.js e NestJS.
+
+Tenho experiência com aplicações web e mobile, desenvolvimento de APIs, otimização de performance e arquitetura de sistemas. Já atuei em soluções voltadas para logística, controle operacional e gestão de entregas.
 
 ---
 
-### About Me:
+# 🚀 Tecnologias
 
-- I'm 18 years old.
-- Systems Development Analyst at <a href="https://www.vemprafam.com.br/" target="_blank">FAM</a>
+### Backend
+- TypeScript
+- Node.js
+- NestJS
+- GraphQL
+- C# /.NET
+
+### Frontend & Mobile
+- Next.js
+- React Native
+
+### Banco de Dados
+- PostgreSQL
+- SQL Server
+- Redis
 
 ---
 
-### SKILLS:
+# 💼 Experiência
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,typescript,java,postgres,mysql,express,prisma,react,php,kotlin,nodejs,firebase,git)](https://skillicons.dev)
+- Desenvolvimento de APIs e serviços backend
+- Aplicações web e mobile
+- Otimização de performance
+- Arquitetura e organização de sistemas
+- Integração entre serviços
+- Escalabilidade de aplicações
 
 ---
-### LEARNING
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,spring,next,laravel,mongo,angular)](https://skillicons.dev)
+# 📚 Atualmente estudando
+
+- Arquitetura de software
+- Microsserviços
+- Performance backend
+- Sistemas distribuídos
 
 ---
 
-### TOOLS
+# 🌎 Objetivos
 
+Buscando oportunidades como:
+- Full Stack Developer
+- Backend Developer
+- Software Engineer
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,idea,visualstudio,vscode)](https://skillicons.dev)
+---
+
+# 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/arthuraugusn/
+- E-mail: arthur.augusto.sn@gmail.com
+- GitHub: https://github.com/arthuraugusn
+
+---
+
+# ⚡ GitHub Stats
+
+![GitHub Commits](https://githubstats.com.br/api/stats?username=arthuraugusn&theme=github_dark&showBorder=false&language=pt&type=commits&days=365)
+
+![GitHub Languages](https://githubstats.com.br/api/stats?username=arthuraugusn&theme=github_dark&showBorder=false&language=pt&type=languages)
